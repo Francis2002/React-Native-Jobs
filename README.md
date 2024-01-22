@@ -1,4 +1,4 @@
-#Completed JSM tutorial on React-Native, creating a job search platform
+# Completed JSM tutorial on React-Native, creating a job search platform
 
 # Expo Router Example
 
